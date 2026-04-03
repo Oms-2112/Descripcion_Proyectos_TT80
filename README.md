@@ -1,2 +1,12 @@
 # Descripcion_Proyectos_TT80
 Descripción de los proyectos del bootcamp de Análisis de Datos.
+
+# Sprint 1: Python básico I
+
+# Sprint 2: Python básico II
+
+# Sprint 3: Procesamiento de datos I
+
+# Sprint 4: Procesamiento de datos II
+
+# Sprint 5: Análisis estadístico de datos
