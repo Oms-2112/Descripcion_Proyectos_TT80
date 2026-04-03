@@ -8,6 +8,9 @@ En este Sprint aprendimos sobre listas.
 En este Sprint aprendimos sobre Bucles y Condicionales.
 
 # Sprint 3: Procesamiento de datos I
+- Pandas
+- Numpy
+- Etc
 
 # Sprint 4: Procesamiento de datos II
 
