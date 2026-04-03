@@ -9,6 +9,9 @@ En este Sprint aprendimos sobre Bucles y Condicionales.
 
 # Sprint 3: Procesamiento de datos I
 En este Sprint aprendimos a utilizar las siguientes librerías:
+- Pandas
+- Numpy
+- Matplotlib
 
 # Sprint 4: Procesamiento de datos II
 
