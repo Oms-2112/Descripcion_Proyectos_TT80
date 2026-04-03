@@ -4,6 +4,7 @@ Descripción de los proyectos del bootcamp de Análisis de Datos.
 # Sprint 1: Python básico I
 
 # Sprint 2: Python básico II
+En este Sprint aprendimos sobre Bucles y Condicionales.
 
 # Sprint 3: Procesamiento de datos I
 
